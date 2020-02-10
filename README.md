@@ -11,6 +11,13 @@ https://hgis.pref.miyazaki.lg.jp/hinata/hinata.html#u3dwU5TNhHhA
 
 （解像度が細かすぎるので、地図を表示する場合はズームアウトしてみてください）
 
+
+## GeoTIFFファイル(ZIP圧縮済)
+* EPSG:4326(ZIP圧縮済)
+https://github.com/dronebird/oam_mitaka20200209disasterdrill00/blob/master/mitaka20200209disasterdrill02taichi_epsg4326.tif.zip
+* EPSG:900913(ZIP圧縮済)
+https://github.com/dronebird/oam_mitaka20200209disasterdrill00/blob/master/mitaka20200209disasterdrill02taichi_epsg900913.tif.zip
+
 <img width="1440" alt="スクリーンショット 2020-02-10 18 53 03" src="https://user-images.githubusercontent.com/416977/74140023-ae55eb00-4c37-11ea-859e-28a56720d13d.png">
 
 
