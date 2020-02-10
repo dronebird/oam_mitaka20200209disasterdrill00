@@ -1,0 +1,2 @@
+# oam_mitaka20200209disasterdrill00
+三鷹市連携訓練2020
