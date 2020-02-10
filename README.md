@@ -8,6 +8,7 @@ https://tiles.openaerialmap.org/5e4126aa56992d0006e589e5/0/5e4126aa56992d0006e58
 
 ## ひなたGISでの展開例:
 https://hgis.pref.miyazaki.lg.jp/hinata/hinata.html#u3dwU5TNhHhA
+（解像度が細かすぎるので、地図を表示する場合はズームアウトしてみてください）
 
 <img width="1440" alt="スクリーンショット 2020-02-10 18 53 03" src="https://user-images.githubusercontent.com/416977/74140023-ae55eb00-4c37-11ea-859e-28a56720d13d.png">
 
